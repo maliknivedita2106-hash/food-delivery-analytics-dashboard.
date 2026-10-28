@@ -1,7 +1,5 @@
-# food-delivery-analytics-dashboard.
-An Excel dashboard project analyzing food delivery performance, sales, and order trends.
 # Food Delivery Analytics Dashboard
-
+An Excel dashboard project analyzing food delivery performance, sales, and order trends.
 ## Project Overview
 This project presents an interactive Food Delivery Analytics Dashboard created using Microsoft Excel to analyze food delivery performance and business trends.
 
